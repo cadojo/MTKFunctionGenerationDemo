@@ -1,0 +1,8 @@
+[deps]
+LabelledArrays = "2ee39098-c373-598a-b85f-a56591580800"
+ModelingToolkit = "961ee093-0014-501f-94e3-6117800e7a78"
+PkgVersion = "eebad327-c553-4316-9ea0-9fa01ccd7688"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+
+[compat]
+ModelingToolkit = "8"
